@@ -41,3 +41,5 @@ def decode(message, key):
     #it should decode the message using the key
     #returns the decoded message
     pass
+
+main()
