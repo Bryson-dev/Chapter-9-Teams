@@ -1,10 +1,10 @@
-# Program Name
-Team member 1, Team member 2, Team member 3
+# Caeser Cipher
+Bricen and Bryson
 
-## <program_name> Description
-Here is where you describe what the program does
+## <Caeser Cipher> Description
+Is basically just a ceaser cipher
 
-### <program_name> Flowchart
+### <Caeser Cipher> Flowchart
 ```mermaid
 graph TD;
   Main-->Get_Shift;
@@ -19,7 +19,7 @@ graph TD;
 
 | `Main`    |               |  Bricen     |
 | ------------------ | ------------- | ------------ |
-| `argument:type`    | takes input from the user for ____  |              |
+| `argument:type`    | takes input from the user for a decision  |              |
 | `time:integer`     | calculates ______  | outputs ____             |
 | `name:string`      | takes input for name ___ | returns total |
 ***
