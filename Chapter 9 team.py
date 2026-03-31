@@ -9,9 +9,7 @@ def get_shift(): #bricen
     #Get shift accepts no argumnets
     #Prompts the user for the shift value
     #returns the value as a string
-    key = True
-    while key == True:
-        print("NIGGER")
+    pass
 
     
 def choose_options(): #bricen
