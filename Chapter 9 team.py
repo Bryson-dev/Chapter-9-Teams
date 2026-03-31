@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import string
 def main():
     #main calls all other functions to build the entire program
@@ -36,20 +35,6 @@ def get_shift():
                 shift = 0
                 inpv = True
                 
-=======
-def main(): #bricen
-    #main accepts no arguments
-    #Main calls all other functions to build the entire program
-    #it outputs the function the user selects
-    pass
-    
-    
-def get_shift(): #bricen
-    #Get shift accepts no argumnets
-    #Prompts the user for the shift value
-    #returns the value as a string
-    pass
->>>>>>> ca78e1ea6e3dfb6e14a2f98f98806d5dab598932
 
    
 
